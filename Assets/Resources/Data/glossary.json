@@ -1,0 +1,29 @@
+{
+  "terms": [
+    {
+      "term": "Sol",
+      "descEn": "One full day on Mars (24 hours and 39 minutes — just a bit longer than an Earth day!).",
+      "descUz": "Marsdagi bir to'liq kun (24 soat 39 daqiqa — Yer kunidan biroz uzunroq!)."
+    },
+    {
+      "term": "Solar Flare / CME",
+      "descEn": "A giant burst of energy and particles from the Sun. Outside Earth, it can hurt astronauts and electronics!",
+      "descUz": "Quyoshdan otiladigan ulkan energiya va zarrachalar oqimi. Yerdan tashqarida astronavtlarga xavf soladi!"
+    },
+    {
+      "term": "Radiation Shielding",
+      "descEn": "Heavy walls (water tanks, plastic, or Moon/Mars dirt) or magnetic fields that block dangerous space rays.",
+      "descUz": "Xavfli kosmik nurlarni to'suvchi himoya devorlari (suv baklari, plastik, Oy/Mars tuprog'i) yoki magnit qalqon."
+    },
+    {
+      "term": "Light-Speed Delay",
+      "descEn": "Radio messages travel at light speed: Moon takes 1.3s, Mars takes ~12 minutes—so you cannot wait for Earth!",
+      "descUz": "Radio signal yorug'lik tezligida uchadi: Oygacha 1.3s, Marsgacha ~12 daqiqa — favqulodda holatda Yerni kutib bo'lmaydi!"
+    },
+    {
+      "term": "Hydroponics",
+      "descEn": "Growing plants using water and nutrients instead of soil—just like NASA's Veggie garden on the Space Station.",
+      "descUz": "O'simliklarni tuproqsiz, suv va ozuqa eritmasida o'stirish — Xalqaro Kosmik Stansiyadagi NASA Veggie bog'i kabi."
+    }
+  ]
+}

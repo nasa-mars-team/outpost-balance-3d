@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": "2024-05-14-X8.7",
+      "type": "FLR",
+      "classType": "X8.7",
+      "severity": "extreme",
+      "peakTime": "2024-05-14T16:51Z",
+      "activeRegion": "AR3664",
+      "noteEn": "One of the strongest solar flares of Solar Cycle 25, recorded by NASA GOES/DONKI.",
+      "noteUz": "NASA GOES/DONKI qayd etgan 25-quyosh siklidagi eng kuchli quyosh chaqnashlaridan biri.",
+      "source": "NASA DONKI FLR Archive (2024-05-14)",
+      "isLive": false
+    },
+    {
+      "id": "2024-10-03-X9.0",
+      "type": "FLR",
+      "classType": "X9.0",
+      "severity": "extreme",
+      "peakTime": "2024-10-03T12:18Z",
+      "activeRegion": "AR3842",
+      "noteEn": "Massive X9.0 solar flare with a Coronal Mass Ejection (CME).",
+      "noteUz": "Kuchli X9.0 quyosh chaqnashi va toj massasi otilishi (CME).",
+      "source": "NASA DONKI FLR Archive (2024-10-03)",
+      "isLive": false
+    },
+    {
+      "id": "2024-05-10-CME",
+      "type": "CME",
+      "classType": "CME 1500 km/s",
+      "severity": "high",
+      "peakTime": "2024-05-10T17:00Z",
+      "activeRegion": "AR3664",
+      "noteEn": "Fast Coronal Mass Ejection (~1,500 km/s) — high radiation risk outside Earth's magnetic field.",
+      "noteUz": "Tez toj massasi otilishi (~1,500 km/s) — Yer magnit maydonidan tashqarida yuqori radiatsiya xavfi.",
+      "source": "NASA DONKI CME Archive (2024-05-10)",
+      "isLive": false
+    },
+    {
+      "id": "2025-01-04-M5.2",
+      "type": "FLR",
+      "classType": "M5.2",
+      "severity": "moderate",
+      "peakTime": "2025-01-04T09:30Z",
+      "activeRegion": "AR3947",
+      "noteEn": "Medium M-class solar flare causing elevated proton radiation levels.",
+      "noteUz": "O'rtacha M-sinfli quyosh chaqnashi — proton radiatsiya darajasini oshiradi.",
+      "source": "NASA DONKI FLR Archive (2025-01-04)",
+      "isLive": false
+    }
+  ]
+}

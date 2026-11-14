@@ -1,0 +1,28 @@
+{
+  "findings": [
+    {
+      "id": "OSD-120",
+      "titleEn": "Space Salad Stress (NASA Veggie / OSD-120)",
+      "titleUz": "Kosmik Salat Stressi (NASA Veggie / OSD-120)",
+      "summaryEn": "Real NASA experiments show space plants grow fresh vitamins for astronauts, but low water or high radiation makes leaves wilt fast.",
+      "summaryUz": "Haqiqiy NASA tajribalari kosmik o'simliklar vitamin berishini, lekin kam suv yoki radiatsiya barglarni tez so'ldirishini ko'rsatdi.",
+      "source": "NASA OSDR Dataset OSD-120 / ISS Veggie"
+    },
+    {
+      "id": "OSD-436",
+      "titleEn": "Radiation & Cell Repair (NASA OSDR)",
+      "titleUz": "Radiatsiya va Hujayra Tiklanishi (NASA OSDR)",
+      "summaryEn": "Without Earth's thick air and magnetic shield, cosmic radiation damages DNA. Water walls and regolith dirt block harmful rays!",
+      "summaryUz": "Yerning qalin atmosferasi va magnit qalqonisiz kosmik radiatsiya DNKga zarar yetkazadi. Suv devorlari va regolit tuprog'i nurlarni to'sadi!",
+      "source": "NASA OSDR Space Biology Radiation Studies"
+    },
+    {
+      "id": "OSD-253",
+      "titleEn": "Microgravity & Crew Health (NASA Twins / OSDR)",
+      "titleUz": "Mikrogravitatsiya va Ekipaj Salomatligi (NASA OSDR)",
+      "summaryEn": "Astronauts in lower gravity need clean air, steady nutrition, and daily exercise to keep their hearts and bones strong.",
+      "summaryUz": "Past gravitatsiyada astronavtlar yuragi va suyaklari baquvvat bo'lishi uchun toza havo va to'g'ri ovqatlanish shart.",
+      "source": "NASA OSDR Crew Health Research"
+    }
+  ]
+}
